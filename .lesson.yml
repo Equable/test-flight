@@ -1,0 +1,9 @@
+---
+title: "Test Flight"
+type: "challenge"
+description: "Test-drive the implementation of an Airplane class."
+behaviors:
+  - "ruby_and_rspec"
+tags: "tdd, unit-testing, rspec"
+ignore:
+- "test-flight.md"
